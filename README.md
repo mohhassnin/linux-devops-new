@@ -61,7 +61,7 @@ chmod +x task_manager.sh
 
 ## 🐙 GitHub Repository
 
-[https://github.com/mohhassnin/linux-devops](https://github.com/mohhassnin/linux-devops-new)
+[https://github.com/mohhassnin/linux-devops-new](https://github.com/mohhassnin/linux-devops-new)
 
 ---
 
